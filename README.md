@@ -16,7 +16,7 @@ Applications in OptionBSD are important elements, and a package format called "o
 - `opman kill com.app.id` – terminate an application
 - `opman manifest com.app.id` – get basic information about an application from the manifest
 
-#Application development
+# Application development
 Clone `optionbsd/voltera` and add `voltera/bin` folder to path (only for UNIX/Unix-like)
 
 - `vproj ~/ProjectFolder` - creating new project in your home directory
