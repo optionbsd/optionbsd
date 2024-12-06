@@ -10,11 +10,6 @@ Applications in OptionBSD are important elements, and a package format called "o
 
 - `opman install /path/to/app.opa` – install an application from a file
 - `opman remove com.app.id` – remove an application by App ID
-- `opman search -n "App Name"` – search for an application by name
-- `opman search -i com.app.id` – search for an application by App ID
-- `opman launch com.app.id` – launch an application
-- `opman kill com.app.id` – terminate an application
-- `opman manifest com.app.id` – get basic information about an application from the manifest
 
 # Application development
 Clone `optionbsd/voltera` and add `voltera/bin` folder to path (only for UNIX/Unix-like)
